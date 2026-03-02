@@ -20,3 +20,5 @@ I am a Master of Science in Business Analytics (MSBA) candidate at the Universit
 - **Bachelor’s degree** in [Your Undergraduate Major], [Your University] – built a foundation in quantitative methods and business principles
 
 I’m passionate about translating data into actionable insights and am always eager to collaborate on analytics-driven projects.
+
+Change #2
