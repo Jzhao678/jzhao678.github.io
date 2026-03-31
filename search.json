@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "my-first-project/index.html",
+    "href": "my-first-project/index.html",
+    "title": "Predicting Customer Churn with Logistic Regression",
+    "section": "",
+    "text": "Introduction\nPost here\nNeed to add /my-first-project to see page"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I am a Master of Science in Business Analytics (MSBA) candidate at the University of California, Irvine’s Paul Merage School of Business. My academic pursuits focus on predictive modeling, data visualization, decision analytics, and optimization.\n\nAcademic Background\n\nMS in Business Analytics, UC Irvine (Paul Merage School of Business) – coursework in machine learning, statistics, and data strategy\nBachelor’s degree in [Your Undergraduate Major], [Your University] – built a foundation in quantitative methods and business principles\n\nI’m passionate about translating data into actionable insights and am always eager to collaborate on analytics-driven projects.\nChange #2"
+    "text": "I am pursuing a Master of Science in Business Analytics (MSBA) at the University of California, Irvine’s Paul Merage School of Business. My academic pursuits focus on predictive modeling, data visualization, decision analytics, and optimization.\n\nAcademic Background\n\nMS in Business Analytics, UC Irvine (Paul Merage School of Business) – coursework in machine learning, statistics, and data strategy\nBachelor’s degree in [Your Undergraduate Major], [Your University] – built a foundation in quantitative methods and business principles\n\nI’m passionate about translating data into actionable insights and am always eager to collaborate on analytics-driven projects.\nChange #2"
   },
   {
     "objectID": "index.html",
@@ -19,12 +26,5 @@
     "title": "Welcome!",
     "section": "Next Steps",
     "text": "Next Steps\n\nEdit about.qmd with your info\nCreate a project post in posts/\nPush to main and your site will auto-deploy"
-  },
-  {
-    "objectID": "my-first-project/index.html",
-    "href": "my-first-project/index.html",
-    "title": "Predicting Customer Churn with Logistic Regression",
-    "section": "",
-    "text": "Introduction\nPost here\nNeed to add /my-first-project to see page"
   }
 ]
